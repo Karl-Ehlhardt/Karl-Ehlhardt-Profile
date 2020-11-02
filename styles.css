@@ -1,0 +1,22 @@
+#top-jumbotron{
+    background-image: url("./assets/Fire.jpg");
+    background-repeat: no-repeat ;
+    background-size: cover;
+    min-height: 40em;
+    color: white;
+}
+
+#mid-jumbotron{
+    background-color: hsl(140, 68%, 48%);
+    min-height: 15em;
+    color: white;
+}
+
+.portfolio-item:hover{
+    background: hsl(140, 68%, 48%);;
+}
+
+.portfolio {
+    color: #fff;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
