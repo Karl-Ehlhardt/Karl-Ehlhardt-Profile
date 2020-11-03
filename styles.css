@@ -7,13 +7,13 @@
 }
 
 #mid-jumbotron{
-    background-color: hsl(140, 68%, 48%);
+    background-color: hsl(17, 100%, 34%);
     min-height: 15em;
     color: white;
 }
 
 .portfolio-item:hover{
-    background: hsl(140, 68%, 48%);;
+    background: hsl(17, 100%, 34%);
 }
 
 .portfolio {
