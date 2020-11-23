@@ -2,7 +2,8 @@
     background-image: url("Assets/Fire.jpg");
     background-repeat: no-repeat ;
     background-size: cover;
-    min-height: 40em;
+    max-height: 30em;
+    min-height: 10em;
     color: white;
 }
 
